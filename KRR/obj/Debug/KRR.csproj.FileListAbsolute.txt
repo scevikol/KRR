@@ -1,1 +1,14 @@
 C:\Users\MaryanPC\Documents\GitHub\KRR\KRR\bin\Debug\KRR.exe.config
+C:\Users\Serdar\Source\Repos\KRR\KRR\bin\Debug\KRR.exe.config
+C:\Users\Serdar\Source\Repos\KRR\KRR\bin\Debug\KRR.exe
+C:\Users\Serdar\Source\Repos\KRR\KRR\bin\Debug\KRR.pdb
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\MainWindow.g.cs
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\App.g.cs
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\KRR_MarkupCompile.cache
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\KRR_MarkupCompile.lref
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\MainWindow.baml
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\KRR.g.resources
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\KRR.Properties.Resources.resources
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\KRR.csproj.GenerateResource.Cache
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\KRR.exe
+C:\Users\Serdar\Source\Repos\KRR\KRR\obj\Debug\KRR.pdb
